@@ -1,0 +1,6 @@
+{
+  "name": "TexFlow ERP - Textile & Garment Manufacturing",
+  "description": "Comprehensive enterprise ERP for fabric procurement, processing mill job-work, garment production BOM, inventory valuation, and double-entry accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
